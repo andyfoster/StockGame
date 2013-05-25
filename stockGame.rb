@@ -1,3 +1,5 @@
+# StockGame
+
 class Stock
 	require 'net/http'
 
